@@ -1,0 +1,35 @@
+Nandesh
+5:46 PM
+For categorical data distribution:
+Bar chart (count)
+
+Na
+Nandesh
+5:47 PM
+Pie chart (in percentage)
+
+Na
+Nandesh
+5:47 PM
+For numerical data distribution :
+Histogram, box and density plots
+
+Na
+Nandesh
+5:47 PM
+Relationship between two numerical values: Scatter plot
+
+Na
+Nandesh
+5:47 PM
+For a trend : Line plot
+
+Ha
+harshit kumar
+5:47 PM
+line
+
+Na
+Nandesh
+5:47 PM
+To compare categorical and numerical value : Box plot
